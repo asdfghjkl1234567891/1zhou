@@ -1,0 +1,8 @@
+<?php
+namespace frontend\models;
+
+use yii\db\ActiveRecord;
+
+class Zhu extends ActiveRecord{
+	
+}
